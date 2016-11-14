@@ -2,19 +2,26 @@
 
 # Welcome!!!!
 
-Welcome to Learn! We're thrilled that you've joined our community of learners!
+Welcome to Learn! We're thrilled that you've joined our community of learners! Learn is designed for people who are passionate, curious, self-driven, and absolutely serious about learning to code. We are on a never ending quest for knowledge and we know there are no shortcuts.
 
-## The Learn Community
+## The Learn Curriculum
 
-Learn is designed for people who are passionate, curious, self-driven, and absolutely serious about learning to code. We are on a never ending quest for knowledge and we know there are no shortcuts.
+The curriculum on Learn is designed for beginners and tries to make no assumptions about previous experience. However, our curriculum is rigorous. Expect it to be a little more challenging than other online learning platforms. We don't dumb anything down because we believe in your infinite capacity to learn.
 
-Most people on Learn have already been learning to code a bit by using the amazing and plentiful resources all around the internet. However, in developing the content on Learn, we made no assumptions. It is designed for absolute beginners. If for any reason you find it overwhelming at first, ask for help and an instructor from the community will be glad to help.
+Learn will demand that you be patient, resilient, resourceful, and gritty. Isn't that the kind of person you want to be? We think that's the kind of person you are already.
 
-Learn will demand that you be patient, resilient, resourceful, and gritty. Isn't that the kind of person you want to be? We think that's the kind of person you already are.
+## Community on Learn
 
-We do our best to offer a curriculum that is clear, digestible, engaging, challenging, and deep. The curriculum you'll encounter on Learn is rigorous. Expect it to be a little more challenging than other online learning platforms. We don't dumb anything down because we believe in your infinite capacity to learn.
+We don't believe in learning alone. Students learn the most when they learn together. Community and curriculum has always been Flatiron School's secret to success. Today, you are joining this movement.
 
-Finally, we don't believe in learning alone. As you make progress, expect to bump into other learners just like you, ready and willing to help each other succeed. Together, we can go further than we could ever go alone. We expect everyone on Learn to be friendly, respectful, helpful, and nice. Learn is something special.
+We have built a social learning platform that truly empowers you to learn together.
+
+  * When you are stuck on a lab, you can ask a question to the entire community and work through the problem with another student. 
+  * When you are confused by a concept, you can host a study group to discuss with other students. 
+  * When you need a break you can socialize in the communal chat lobby. 
+  * As you meet people you can add them as friends, supporting them in their journey and never ever having to learn alone.
+
+Finally, we expect everyone on Learn to be friendly, respectful, helpful, and nice. Learn is something special. Together, we can go further than we could ever go alone. 
 
 ## Keep going!
 
