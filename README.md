@@ -2,5 +2,3 @@ Flatiron School launched Community Powered Bootcamp in November of 2016 with the
 
 Effective March 31, 2021 Flatiron School will no longer offer Community Powered Bootcamp. 
 This means that we will not collect any additional payments beyond February 28, 2021, and access to this curriculum will be turned off on March 31, 2021.
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/the-learn-philosophy' title='The Learn Philosophy'>The Learn Philosophy</a> on Learn.co and start learning to code for free.</p>
